@@ -25,7 +25,7 @@ This project was created using **Android Studio** and explores different UI layo
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Kaviraj19/Learning_Android_Studio.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and build the project.
